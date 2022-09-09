@@ -106,6 +106,7 @@ $(".list-group").on("click", "span", function() {
 
   // automatically focus on the new element 
   dateInput.trigger("focus");
+
 });
 
 // value of date was changed
